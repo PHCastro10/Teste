@@ -1,4 +1,5 @@
 #Esse programa consiste em sortear a ordem de apresentação do grupo
+#Testando mudança
 from random import shuffle
 
 participantes = []
